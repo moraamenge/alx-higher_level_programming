@@ -70,3 +70,4 @@ int ispali(listint_t **head)
 
 	return (1);
 }
+
