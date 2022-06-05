@@ -8,4 +8,3 @@ def new_in_list(my_list, idx, element):
     copied = [x for x in my_list]
     copied[idx] = element
     return copied
-

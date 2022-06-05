@@ -3,4 +3,3 @@
 def no_c(my_string):
     copied = [x for x in my_string if x != 'c' or x != 'C']
     return ("".join(copied))
-
